@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author garim
+ *
+ */
+module QualASala {
+}
